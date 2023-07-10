@@ -3,5 +3,5 @@
 ## test for lesson
 4. add the news
 5. data corrector
-6. binary algoritmus: ?
+6. 
 
